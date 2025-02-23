@@ -3,7 +3,7 @@
 A new power supply for the Orborne 1 Computer.
 Is a new power supply using a Meanwell power module.
 
-![A render of the power supply PCB](docs/3D PCB.png "The power supply PCB")
+![A render of the power supply PCB](docs/PCB.jpg "The power supply PCB")
 
 ## Bill of Materials
 
