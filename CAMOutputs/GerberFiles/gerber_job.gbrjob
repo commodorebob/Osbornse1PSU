@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-02-23T21:24:43Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Osborne PSU PCB v6"
+        },
+        "Owner": "Garret Greene <commodorebob45@gmail.com>",
+        "Size": {
+            "X": 160,
+            "Y": 100
+        }
+    }
+}
